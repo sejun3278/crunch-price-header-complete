@@ -3,8 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.5",
     "react": "^16.8.3",
+    "react-animated-modal": "^1.1.1",
+    "react-awesome-modal": "^2.0.5",
+    "react-dev-utils": "^7.0.3",
     "react-dom": "^16.8.3",
+    "react-modal": "^3.8.1",
+    "react-modal-slider": "^0.2.2",
     "react-scripts": "2.1.5"
   },
   "scripts": {

@@ -1,0 +1,5668 @@
+[
+    {
+      "cateCd": "006001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "식품",
+      "children": {
+        "006001": {
+          "cateCd": "006001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "가공식품",
+          "children": [
+            {
+              "cateCd": "006001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 간편조리식"
+            },
+            {
+              "cateCd": "006001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타분말가루"
+            },
+            {
+              "cateCd": "006001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 누룽지"
+            },
+            {
+              "cateCd": "006001004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 두유"
+            },
+            {
+              "cateCd": "006001005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 떡"
+            },
+            {
+              "cateCd": "006001006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "라면"
+            },
+            {
+              "cateCd": "006001007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마가린"
+            },
+            {
+              "cateCd": "006001008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "면류"
+            },
+            {
+              "cateCd": "006001009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 물엿"
+            },
+            {
+              "cateCd": "006001010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 밀가루"
+            },
+            {
+              "cateCd": "006001011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 버터"
+            },
+            {
+              "cateCd": "006001012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부침가루"
+            },
+            {
+              "cateCd": "006001013",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빵"
+            },
+            {
+              "cateCd": "006001014",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빵가루"
+            },
+            {
+              "cateCd": "006001015",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 생크림"
+            },
+            {
+              "cateCd": "006001016",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 설탕"
+            }
+          ]
+        },
+        "006002": {
+          "cateCd": "006002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "건강식품",
+          "children": [
+            {
+              "cateCd": "006002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강분말"
+            },
+            {
+              "cateCd": "006002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강음료"
+            },
+            {
+              "cateCd": "006002003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강즙"
+            },
+            {
+              "cateCd": "006002004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강환/정"
+            },
+            {
+              "cateCd": "006002005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 과일즙"
+            },
+            {
+              "cateCd": "006002006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 꿀"
+            },
+            {
+              "cateCd": "006002007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "비타민제"
+            },
+            {
+              "cateCd": "006002008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영양제"
+            },
+            {
+              "cateCd": "006002009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 인삼"
+            }
+          ]
+        },
+        "006003": {
+          "cateCd": "006003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "과자",
+          "children": [
+            {
+              "cateCd": "006003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 가공안주류"
+            },
+            {
+              "cateCd": "006003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 강냉이"
+            },
+            {
+              "cateCd": "006003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 강정"
+            },
+            {
+              "cateCd": "006003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타과자"
+            }
+          ]
+        },
+        "006004": {
+          "cateCd": "006004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "김치",
+          "children": [
+            {
+              "cateCd": "006004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 갓김치"
+            },
+            {
+              "cateCd": "006004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 겉절이"
+            },
+            {
+              "cateCd": "006004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 깍두기"
+            },
+            {
+              "cateCd": "006004004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 나박김치"
+            },
+            {
+              "cateCd": "006004005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 동치미"
+            },
+            {
+              "cateCd": "006004006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 묵은지"
+            },
+            {
+              "cateCd": "006004007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 백김치"
+            },
+            {
+              "cateCd": "006004008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 별미김치"
+            },
+            {
+              "cateCd": "006004009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 열무김치"
+            },
+            {
+              "cateCd": "006004010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 절임배추"
+            },
+            {
+              "cateCd": "006004011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 총각김치"
+            },
+            {
+              "cateCd": "006004012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 파김치"
+            },
+            {
+              "cateCd": "006004013",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 포기김치"
+            }
+          ]
+        },
+        "006005": {
+          "cateCd": "006005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "냉동/간편조리식품",
+          "children": [
+            {
+              "cateCd": "006005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타냉동/간편조리식품"
+            },
+            {
+              "cateCd": "006005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 도시락"
+            },
+            {
+              "cateCd": "006005003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 딤섬"
+            },
+            {
+              "cateCd": "006005004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 만두"
+            },
+            {
+              "cateCd": "006005005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 샐러드"
+            },
+            {
+              "cateCd": "006005006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 어묵"
+            },
+            {
+              "cateCd": "006005007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 즉석국/즉석탕"
+            }
+          ]
+        },
+        "006006": {
+          "cateCd": "006006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "농산물",
+          "children": [
+            {
+              "cateCd": "006006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "건과류"
+            },
+            {
+              "cateCd": "006006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "견과류"
+            },
+            {
+              "cateCd": "006006003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "과일"
+            },
+            {
+              "cateCd": "006006004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "쌀"
+            },
+            {
+              "cateCd": "006006005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "잡곡/혼합곡"
+            },
+            {
+              "cateCd": "006006006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "채소"
+            }
+          ]
+        },
+        "006007": {
+          "cateCd": "006007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "다이어트식품",
+          "children": [
+            {
+              "cateCd": "006007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 가르시니아"
+            },
+            {
+              "cateCd": "006007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "곤약"
+            },
+            {
+              "cateCd": "006007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타다이어트식품"
+            },
+            {
+              "cateCd": "006007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다이어트바"
+            }
+          ]
+        },
+        "006008": {
+          "cateCd": "006008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "반찬",
+          "children": [
+            {
+              "cateCd": "006008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타반찬류"
+            },
+            {
+              "cateCd": "006008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 반찬세트"
+            },
+            {
+              "cateCd": "006008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 장아찌"
+            },
+            {
+              "cateCd": "006008004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 장조림"
+            },
+            {
+              "cateCd": "006008005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 절임류"
+            },
+            {
+              "cateCd": "006008006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 조림류"
+            }
+          ]
+        },
+        "006009": {
+          "cateCd": "006009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수산",
+          "children": [
+            {
+              "cateCd": "006009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "건어물"
+            },
+            {
+              "cateCd": "006009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "김/해초"
+            },
+            {
+              "cateCd": "006009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "생선"
+            },
+            {
+              "cateCd": "006009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "젓갈"
+            },
+            {
+              "cateCd": "006009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "해산물/어패류"
+            }
+          ]
+        },
+        "006010": {
+          "cateCd": "006010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "아이스크림/빙수",
+          "children": [
+            {
+              "cateCd": "006010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빙수/빙수재료"
+            },
+            {
+              "cateCd": "006010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 아이스크림"
+            }
+          ]
+        },
+        "006011": {
+          "cateCd": "006011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "음료",
+          "children": [
+            {
+              "cateCd": "006011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 생수"
+            },
+            {
+              "cateCd": "006011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "주스/과즙음료"
+            },
+            {
+              "cateCd": "006011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "차류"
+            },
+            {
+              "cateCd": "006011004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "청량/탄산음료"
+            }
+          ]
+        },
+        "006012": {
+          "cateCd": "006012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "전통주",
+          "children": [
+            {
+              "cateCd": "006012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "과실주"
+            },
+            {
+              "cateCd": "006012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타주류"
+            },
+            {
+              "cateCd": "006012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 리큐르주"
+            },
+            {
+              "cateCd": "006012004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소주"
+            },
+            {
+              "cateCd": "006012005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 약주"
+            },
+            {
+              "cateCd": "006012006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 일반증류주"
+            }
+          ]
+        },
+        "006013": {
+          "cateCd": "006013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "축산",
+          "children": [
+            {
+              "cateCd": "006013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타육류"
+            },
+            {
+              "cateCd": "006013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "닭고기"
+            },
+            {
+              "cateCd": "006013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "돼지고기"
+            },
+            {
+              "cateCd": "006013004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "쇠고기"
+            },
+            {
+              "cateCd": "006013005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "알류"
+            },
+            {
+              "cateCd": "006013006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 양고기"
+            },
+            {
+              "cateCd": "006013007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 오리고기"
+            },
+            {
+              "cateCd": "006013008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "축산가공식품"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "004001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "생활/건강",
+      "children": {
+        "004001": {
+          "cateCd": "004001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "건강관리용품",
+          "children": [
+            {
+              "cateCd": "004001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강목걸이"
+            },
+            {
+              "cateCd": "004001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강팔찌"
+            },
+            {
+              "cateCd": "004001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 금연용품"
+            },
+            {
+              "cateCd": "004001004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타건강관리용품"
+            },
+            {
+              "cateCd": "004001005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 뜸/뜸기구"
+            },
+            {
+              "cateCd": "004001006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 먼지차단마스크"
+            },
+            {
+              "cateCd": "004001007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소음방지귀마개"
+            },
+            {
+              "cateCd": "004001008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수액시트"
+            }
+          ]
+        },
+        "004002": {
+          "cateCd": "004002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "건강측정용품"
+        },
+        "004003": {
+          "cateCd": "004003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "공구",
+          "children": [
+            {
+              "cateCd": "004003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "목공공구"
+            },
+            {
+              "cateCd": "004003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "설비공구"
+            },
+            {
+              "cateCd": "004003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "소형기계"
+            },
+            {
+              "cateCd": "004003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "수작업공구"
+            },
+            {
+              "cateCd": "004003005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "안전용품"
+            },
+            {
+              "cateCd": "004003006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "에어공구"
+            },
+            {
+              "cateCd": "004003007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "예초기"
+            },
+            {
+              "cateCd": "004003008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "용접공구"
+            },
+            {
+              "cateCd": "004003009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "운반용품"
+            }
+          ]
+        },
+        "004004": {
+          "cateCd": "004004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "관상어용품",
+          "children": [
+            {
+              "cateCd": "004004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모터"
+            },
+            {
+              "cateCd": "004004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 사료"
+            },
+            {
+              "cateCd": "004004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수조장식용품"
+            },
+            {
+              "cateCd": "004004004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수조청소용품"
+            },
+            {
+              "cateCd": "004004005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수족관/어항"
+            }
+          ]
+        },
+        "004005": {
+          "cateCd": "004005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "구강위생용품",
+          "children": [
+            {
+              "cateCd": "004005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 구강청정제/가글"
+            },
+            {
+              "cateCd": "004005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마우스피스"
+            },
+            {
+              "cateCd": "004005003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 치석제거기"
+            },
+            {
+              "cateCd": "004005004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 치실/치간칫솔"
+            },
+            {
+              "cateCd": "004005005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 치아미백제"
+            },
+            {
+              "cateCd": "004005006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 치약"
+            },
+            {
+              "cateCd": "004005007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 칫솔"
+            },
+            {
+              "cateCd": "004005008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 칫솔치약세트"
+            }
+          ]
+        },
+        "004006": {
+          "cateCd": "004006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "냉온/찜질용품",
+          "children": [
+            {
+              "cateCd": "004006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 찜질기"
+            },
+            {
+              "cateCd": "004006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 찜질팩"
+            }
+          ]
+        },
+        "004007": {
+          "cateCd": "004007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "눈건강용품",
+          "children": [
+            {
+              "cateCd": "004007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타렌즈용품"
+            },
+            {
+              "cateCd": "004007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 렌즈세정액"
+            },
+            {
+              "cateCd": "004007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 렌즈세척기"
+            },
+            {
+              "cateCd": "004007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 안대"
+            }
+          ]
+        },
+        "004008": {
+          "cateCd": "004008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "당뇨관리용품",
+          "children": [
+            {
+              "cateCd": "004008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 침/바늘"
+            },
+            {
+              "cateCd": "004008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 혈당계"
+            },
+            {
+              "cateCd": "004008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 혈당측정지"
+            }
+          ]
+        },
+        "004009": {
+          "cateCd": "004009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "문구/사무용품",
+          "children": [
+            {
+              "cateCd": "004009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "기타문구/사무용품"
+            },
+            {
+              "cateCd": "004009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "노트/수첩"
+            },
+            {
+              "cateCd": "004009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "다이어리/플래너"
+            },
+            {
+              "cateCd": "004009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "데스크용품"
+            },
+            {
+              "cateCd": "004009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "보드/칠판"
+            },
+            {
+              "cateCd": "004009006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "사무기기"
+            },
+            {
+              "cateCd": "004009007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "앨범"
+            },
+            {
+              "cateCd": "004009008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "용지"
+            }
+          ]
+        },
+        "004010": {
+          "cateCd": "004010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "물리치료/저주파용품",
+          "children": [
+            {
+              "cateCd": "004010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 디스크/관절용품"
+            },
+            {
+              "cateCd": "004010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 물리치료용품"
+            },
+            {
+              "cateCd": "004010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부항기"
+            },
+            {
+              "cateCd": "004010004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 저주파안마기"
+            },
+            {
+              "cateCd": "004010005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 저주파자극기"
+            },
+            {
+              "cateCd": "004010006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 저주파패드"
+            },
+            {
+              "cateCd": "004010007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 적외선조사기"
+            }
+          ]
+        },
+        "004011": {
+          "cateCd": "004011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "반려동물",
+          "children": [
+            {
+              "cateCd": "004011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 간식",
+              "children": [
+                {
+                  "cateCd": "004011001001",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 개껌"
+                },
+                {
+                  "cateCd": "004011001002",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 동결/건조간식"
+                }
+              ]
+            },
+            {
+              "cateCd": "004011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 건강/관리용품"
+            },
+            {
+              "cateCd": "004011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 강아지 계단/스텝"
+            },
+            {
+              "cateCd": "004011004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 미용/목욕"
+            },
+            {
+              "cateCd": "004011005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 배변용품"
+            },
+            {
+              "cateCd": "004011006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 사료"
+            },
+            {
+              "cateCd": "004011007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "강아지 장난감/훈련"
+            }
+          ]
+        },
+        "004012": {
+          "cateCd": "004012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "발건강용품",
+          "children": [
+            {
+              "cateCd": "004012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 건강슬리퍼"
+            },
+            {
+              "cateCd": "004012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다리/발마사지기"
+            },
+            {
+              "cateCd": "004012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발가락교정기"
+            },
+            {
+              "cateCd": "004012004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발각질제거기"
+            },
+            {
+              "cateCd": "004012005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발냄새제거제"
+            },
+            {
+              "cateCd": "004012006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발보호대/패드"
+            },
+            {
+              "cateCd": "004012007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발지압/발매트"
+            },
+            {
+              "cateCd": "004012008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 족욕/족탕기"
+            }
+          ]
+        },
+        "004013": {
+          "cateCd": "004013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "블루레이",
+          "children": [
+            {
+              "cateCd": "004013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 교양/다큐멘터리"
+            },
+            {
+              "cateCd": "004013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 교육"
+            },
+            {
+              "cateCd": "004013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "드라마"
+            },
+            {
+              "cateCd": "004013004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 뮤직비디오"
+            },
+            {
+              "cateCd": "004013005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 애니메이션"
+            },
+            {
+              "cateCd": "004013006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영화"
+            },
+            {
+              "cateCd": "004013007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아/어린이"
+            },
+            {
+              "cateCd": "004013008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 종교"
+            }
+          ]
+        },
+        "004014": {
+          "cateCd": "004014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "생활용품",
+          "children": [
+            {
+              "cateCd": "004014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "보안용품"
+            },
+            {
+              "cateCd": "004014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "생리대"
+            },
+            {
+              "cateCd": "004014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 생활선물세트"
+            },
+            {
+              "cateCd": "004014004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "생활잡화"
+            },
+            {
+              "cateCd": "004014005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "섬유유연제"
+            },
+            {
+              "cateCd": "004014006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "성인용기저귀"
+            }
+          ]
+        },
+        "004015": {
+          "cateCd": "004015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "세탁용품",
+          "children": [
+            {
+              "cateCd": "004015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다림판"
+            },
+            {
+              "cateCd": "004015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다림풀"
+            },
+            {
+              "cateCd": "004015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "빨래건조대"
+            },
+            {
+              "cateCd": "004015004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빨래바구니"
+            },
+            {
+              "cateCd": "004015005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빨래삶통"
+            },
+            {
+              "cateCd": "004015006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빨래줄"
+            },
+            {
+              "cateCd": "004015007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빨래집게"
+            },
+            {
+              "cateCd": "004015008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 빨래판"
+            },
+            {
+              "cateCd": "004015009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 세탁망"
+            },
+            {
+              "cateCd": "004015010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 세탁볼"
+            },
+            {
+              "cateCd": "004015011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 세탁솔"
+            },
+            {
+              "cateCd": "004015012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 세탁잡화"
+            }
+          ]
+        },
+        "004016": {
+          "cateCd": "004016",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수납/정리용품",
+          "children": [
+            {
+              "cateCd": "004016001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마네킹"
+            },
+            {
+              "cateCd": "004016002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바구니"
+            },
+            {
+              "cateCd": "004016003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "선반/진열대"
+            },
+            {
+              "cateCd": "004016004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선풍기커버"
+            },
+            {
+              "cateCd": "004016005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소품걸이"
+            },
+            {
+              "cateCd": "004016006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 압축팩"
+            },
+            {
+              "cateCd": "004016007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "옷걸이"
+            },
+            {
+              "cateCd": "004016008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 옷커버"
+            },
+            {
+              "cateCd": "004016009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "정리함"
+            }
+          ]
+        },
+        "004017": {
+          "cateCd": "004017",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수집품",
+          "children": [
+            {
+              "cateCd": "004017001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "게임"
+            },
+            {
+              "cateCd": "004017002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 공예품"
+            },
+            {
+              "cateCd": "004017003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "모형/프라모델"
+            },
+            {
+              "cateCd": "004017004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "무선/RC"
+            },
+            {
+              "cateCd": "004017005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "서바이벌"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "008009",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "출산/육아",
+      "children": {
+        "008009": {
+          "cateCd": "008009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "간식/건강식품",
+          "children": [
+            {
+              "cateCd": "008009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 어린이건강식품"
+            },
+            {
+              "cateCd": "008009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아과자"
+            },
+            {
+              "cateCd": "008009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아두유"
+            },
+            {
+              "cateCd": "008009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아유제품"
+            },
+            {
+              "cateCd": "008009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아음료"
+            }
+          ]
+        },
+        "008010": {
+          "cateCd": "008010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "교재/서적",
+          "children": [
+            {
+              "cateCd": "008010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 비디오/DVD"
+            },
+            {
+              "cateCd": "008010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "유아동전집"
+            },
+            {
+              "cateCd": "008010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "학습교구"
+            }
+          ]
+        },
+        "008011": {
+          "cateCd": "008011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "구강청결용품",
+          "children": [
+            {
+              "cateCd": "008011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타구강청결용품"
+            },
+            {
+              "cateCd": "008011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 손가락빨기방지용품"
+            },
+            {
+              "cateCd": "008011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아구강세정제"
+            },
+            {
+              "cateCd": "008011004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아구강청결티슈"
+            },
+            {
+              "cateCd": "008011005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아치약"
+            },
+            {
+              "cateCd": "008011006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아칫솔"
+            }
+          ]
+        },
+        "008012": {
+          "cateCd": "008012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "기저귀",
+          "children": [
+            {
+              "cateCd": "008012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 국내기저귀"
+            },
+            {
+              "cateCd": "008012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "기능성기저귀"
+            },
+            {
+              "cateCd": "008012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수입기저귀"
+            }
+          ]
+        },
+        "008013": {
+          "cateCd": "008013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "목욕용품",
+          "children": [
+            {
+              "cateCd": "008013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타목욕용품"
+            },
+            {
+              "cateCd": "008013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 욕실정리망/정리함"
+            },
+            {
+              "cateCd": "008013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유아목욕가운"
+            }
+          ]
+        },
+        "008014": {
+          "cateCd": "008014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "물티슈",
+          "children": [
+            {
+              "cateCd": "008014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 리필형"
+            },
+            {
+              "cateCd": "008014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 캡형"
+            },
+            {
+              "cateCd": "008014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 혼합세트"
+            },
+            {
+              "cateCd": "008014004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 휴대용"
+            }
+          ]
+        },
+        "008015": {
+          "cateCd": "008015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "분유",
+          "children": [
+            {
+              "cateCd": "008015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 국내분유"
+            },
+            {
+              "cateCd": "008015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수입분유"
+            },
+            {
+              "cateCd": "008015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 특수분유"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "011001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "화장품/미용",
+      "children": {
+        "011001": {
+          "cateCd": "011001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "남성화장품",
+          "children": [
+            {
+              "cateCd": "011001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 남성청결제"
+            },
+            {
+              "cateCd": "011001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 남성화장품세트"
+            }
+          ]
+        },
+        "011002": {
+          "cateCd": "011002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "네일케어",
+          "children": [
+            {
+              "cateCd": "011002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 네일리무버"
+            },
+            {
+              "cateCd": "011002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 네일아트"
+            }
+          ]
+        },
+        "011003": {
+          "cateCd": "011003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "마스크/팩",
+          "children": [
+            {
+              "cateCd": "011003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마사지크림/젤"
+            },
+            {
+              "cateCd": "011003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마스크/팩세트"
+            },
+            {
+              "cateCd": "011003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마스크시트"
+            },
+            {
+              "cateCd": "011003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수면팩"
+            },
+            {
+              "cateCd": "011003005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 워시오프팩"
+            },
+            {
+              "cateCd": "011003006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 코팩"
+            },
+            {
+              "cateCd": "011003007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 필오프팩"
+            }
+          ]
+        },
+        "011004": {
+          "cateCd": "011004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "바디케어",
+          "children": [
+            {
+              "cateCd": "011004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 데오드란트"
+            },
+            {
+              "cateCd": "011004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 목욕비누"
+            },
+            {
+              "cateCd": "011004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바디로션"
+            },
+            {
+              "cateCd": "011004004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바디미스트"
+            }
+          ]
+        },
+        "011005": {
+          "cateCd": "011005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "베이스메이크업",
+          "children": [
+            {
+              "cateCd": "011005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 메이크업베이스"
+            },
+            {
+              "cateCd": "011005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 베이스메이크업세트"
+            }
+          ]
+        },
+        "011006": {
+          "cateCd": "011006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "뷰티소품",
+          "children": [
+            {
+              "cateCd": "011006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "메이크업브러시"
+            },
+            {
+              "cateCd": "011006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바디소품"
+            },
+            {
+              "cateCd": "011006003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "아이소품"
+            },
+            {
+              "cateCd": "011006004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 타투"
+            }
+          ]
+        },
+        "011007": {
+          "cateCd": "011007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "색조메이크업",
+          "children": [
+            {
+              "cateCd": "011007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 립글로스"
+            },
+            {
+              "cateCd": "011007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 립라이너"
+            },
+            {
+              "cateCd": "011007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 립스틱"
+            },
+            {
+              "cateCd": "011007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 립케어"
+            }
+          ]
+        },
+        "011008": {
+          "cateCd": "011008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "선케어",
+          "children": [
+            {
+              "cateCd": "011008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선스틱"
+            },
+            {
+              "cateCd": "011008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선스프레이"
+            },
+            {
+              "cateCd": "011008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선케어세트"
+            },
+            {
+              "cateCd": "011008004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선크림"
+            }
+          ]
+        },
+        "011009": {
+          "cateCd": "011009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스킨케어",
+          "children": [
+            {
+              "cateCd": "011009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 넥케어"
+            },
+            {
+              "cateCd": "011009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 로션"
+            },
+            {
+              "cateCd": "011009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 미스트"
+            },
+            {
+              "cateCd": "011009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스킨/토너"
+            }
+          ]
+        },
+        "011010": {
+          "cateCd": "011010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "클렌징",
+          "children": [
+            {
+              "cateCd": "011010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 립앤아이리무버"
+            },
+            {
+              "cateCd": "011010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스크럽/필링"
+            },
+            {
+              "cateCd": "011010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 클렌징로션"
+            }
+          ]
+        },
+        "011011": {
+          "cateCd": "011011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "향수",
+          "children": [
+            {
+              "cateCd": "011011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 남녀공용향수"
+            },
+            {
+              "cateCd": "011011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 남성향수"
+            },
+            {
+              "cateCd": "011011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 여성향수"
+            }
+          ]
+        },
+        "011012": {
+          "cateCd": "011012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "헤어스타일링",
+          "children": [
+            {
+              "cateCd": "011012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 염색약"
+            },
+            {
+              "cateCd": "011012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "베이비웰"
+            },
+            {
+              "cateCd": "011012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 헤어글레이즈"
+            }
+          ]
+        },
+        "011013": {
+          "cateCd": "011013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "헤어케어",
+          "children": [
+            {
+              "cateCd": "011013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 두피케어"
+            },
+            {
+              "cateCd": "011013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 린스"
+            },
+            {
+              "cateCd": "011013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 샴푸",
+              "children": [
+                {
+                  "cateCd": "016018001010",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 수채화물감"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "009001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "패션의류",
+      "children": {
+        "009001": {
+          "cateCd": "009001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "남성언더웨어/잠옷",
+          "children": [
+            {
+              "cateCd": "009001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러닝"
+            },
+            {
+              "cateCd": "009001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러닝팬티세트"
+            },
+            {
+              "cateCd": "009001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "보정속옷"
+            },
+            {
+              "cateCd": "009001004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "시즌성내의"
+            },
+            {
+              "cateCd": "009001005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 잠옷/홈웨어"
+            },
+            {
+              "cateCd": "009001006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 팬티"
+            }
+          ]
+        },
+        "009002": {
+          "cateCd": "009002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "남성의류",
+          "children": [
+            {
+              "cateCd": "009002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 니트/스웨터"
+            },
+            {
+              "cateCd": "009002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레인코트"
+            },
+            {
+              "cateCd": "009002003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바지"
+            },
+            {
+              "cateCd": "009002004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 셔츠/남방"
+            },
+            {
+              "cateCd": "009002005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유니폼"
+            },
+            {
+              "cateCd": "009002006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 재킷"
+            },
+            {
+              "cateCd": "009002007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 점퍼"
+            },
+            {
+              "cateCd": "009002008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 정장세트"
+            },
+            {
+              "cateCd": "009002009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 조끼"
+            },
+            {
+              "cateCd": "009002010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 청바지"
+            },
+            {
+              "cateCd": "009002011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 카디건"
+            },
+            {
+              "cateCd": "009002012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 코디세트"
+            },
+            {
+              "cateCd": "009002013",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 코트"
+            },
+            {
+              "cateCd": "009002014",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 트레이닝복"
+            }
+          ]
+        },
+        "009003": {
+          "cateCd": "009003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "아동언더웨어/잠옷",
+          "children": [
+            {
+              "cateCd": "009003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러닝"
+            },
+            {
+              "cateCd": "009003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러닝팬티세트"
+            },
+            {
+              "cateCd": "009003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 브라"
+            },
+            {
+              "cateCd": "009003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 브라팬티세트"
+            }
+          ]
+        },
+        "009004": {
+          "cateCd": "009004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "아동의류",
+          "children": [
+            {
+              "cateCd": "009004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 교복"
+            },
+            {
+              "cateCd": "009004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 니트/스웨터"
+            },
+            {
+              "cateCd": "009004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레깅스"
+            },
+            {
+              "cateCd": "009004004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레인코트"
+            },
+            {
+              "cateCd": "009004005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바지"
+            },
+            {
+              "cateCd": "009004006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발레복/댄스복"
+            },
+            {
+              "cateCd": "009004007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 블라우스"
+            },
+            {
+              "cateCd": "009004008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 상하세트"
+            },
+            {
+              "cateCd": "009004009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 셔츠/남방"
+            },
+            {
+              "cateCd": "009004010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스커트"
+            },
+            {
+              "cateCd": "009004011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스키복"
+            },
+            {
+              "cateCd": "009004012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 원피스"
+            },
+            {
+              "cateCd": "009004013",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 재킷"
+            },
+            {
+              "cateCd": "009004014",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 점퍼"
+            },
+            {
+              "cateCd": "009004015",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 점프슈트"
+            },
+            {
+              "cateCd": "009004016",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 조끼"
+            }
+          ]
+        },
+        "009005": {
+          "cateCd": "009005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "여성언더웨어/잠옷",
+          "children": [
+            {
+              "cateCd": "009005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러닝/캐미솔"
+            },
+            {
+              "cateCd": "009005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "보정속옷"
+            },
+            {
+              "cateCd": "009005003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 브라"
+            },
+            {
+              "cateCd": "009005004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 브라팬티세트"
+            },
+            {
+              "cateCd": "009005005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 속치마/속바지"
+            },
+            {
+              "cateCd": "009005006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 슬립"
+            },
+            {
+              "cateCd": "009005007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "시즌성내의"
+            },
+            {
+              "cateCd": "009005008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "언더웨어소품"
+            },
+            {
+              "cateCd": "009005009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 잠옷/홈웨어"
+            },
+            {
+              "cateCd": "009005010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 팬티"
+            }
+          ]
+        },
+        "009006": {
+          "cateCd": "009006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "여성의류",
+          "children": [
+            {
+              "cateCd": "009006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 니트/스웨터"
+            },
+            {
+              "cateCd": "009006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레깅스"
+            },
+            {
+              "cateCd": "009006003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레인코트"
+            },
+            {
+              "cateCd": "009006004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바지"
+            },
+            {
+              "cateCd": "009006005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 블라우스/셔츠"
+            },
+            {
+              "cateCd": "009006006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스커트"
+            },
+            {
+              "cateCd": "009006007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 원피스"
+            },
+            {
+              "cateCd": "009006008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 유니폼"
+            },
+            {
+              "cateCd": "009006009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 재킷"
+            },
+            {
+              "cateCd": "009006010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 점퍼"
+            },
+            {
+              "cateCd": "009006011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 점프슈트"
+            },
+            {
+              "cateCd": "009006012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 정장세트"
+            },
+            {
+              "cateCd": "009006013",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 조끼"
+            },
+            {
+              "cateCd": "009006014",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 청바지"
+            },
+            {
+              "cateCd": "009006015",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 카디건"
+            },
+            {
+              "cateCd": "009006016",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 코디세트"
+            },
+            {
+              "cateCd": "009006017",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 코트"
+            },
+            {
+              "cateCd": "009006018",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 트레이닝복"
+            },
+            {
+              "cateCd": "009006019",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 티셔츠"
+            },
+            {
+              "cateCd": "009006020",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 파티복"
+            },
+            {
+              "cateCd": "009006021",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 한복"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "003001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "디지털/가전",
+      "children": {
+        "003001": {
+          "cateCd": "003001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "게임기/타이틀",
+          "children": [
+            {
+              "cateCd": "003001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 가정용게임기"
+            },
+            {
+              "cateCd": "003001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "게임기주변기기"
+            },
+            {
+              "cateCd": "003001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 게임타이틀"
+            },
+            {
+              "cateCd": "003001004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 휴대용게임기"
+            }
+          ]
+        },
+        "003002": {
+          "cateCd": "003002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "계절가전",
+          "children": [
+            {
+              "cateCd": "003002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "가습기"
+            },
+            {
+              "cateCd": "003002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "공기정화기"
+            },
+            {
+              "cateCd": "003002003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 냉온풍기"
+            },
+            {
+              "cateCd": "003002004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "냉풍기"
+            },
+            {
+              "cateCd": "003002005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 라디에이터"
+            }
+          ]
+        },
+        "003003": {
+          "cateCd": "003003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "광학기기/용품",
+          "children": [
+            {
+              "cateCd": "003003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 광학용품액세서리"
+            },
+            {
+              "cateCd": "003003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 망원경"
+            },
+            {
+              "cateCd": "003003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 쌍안경"
+            },
+            {
+              "cateCd": "003003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 천체망원경"
+            }
+          ]
+        },
+        "003004": {
+          "cateCd": "003004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "네트워크장비",
+          "children": [
+            {
+              "cateCd": "003004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "공유기"
+            },
+            {
+              "cateCd": "003004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타네트워크장비"
+            },
+            {
+              "cateCd": "003004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 네트워크모듈"
+            }
+          ]
+        },
+        "003005": {
+          "cateCd": "003005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "노트북",
+          "children": [
+            {
+              "cateCd": "003005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 노트북"
+            }
+          ]
+        },
+        "003006": {
+          "cateCd": "003006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "노트북액세서리",
+          "children": [
+            {
+              "cateCd": "003006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타노트북액세서리"
+            },
+            {
+              "cateCd": "003006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 노트북가방/케이스"
+            }
+          ]
+        },
+        "003007": {
+          "cateCd": "003007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "멀티미디어장비",
+          "children": [
+            {
+              "cateCd": "003007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "사운드카드"
+            },
+            {
+              "cateCd": "003007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영상수신장비"
+            },
+            {
+              "cateCd": "003007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영상편집카드"
+            },
+            {
+              "cateCd": "003007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 웹캠"
+            }
+          ]
+        },
+        "003008": {
+          "cateCd": "003008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "모니터",
+          "children": [
+            {
+              "cateCd": "003008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모니터"
+            }
+          ]
+        },
+        "003009": {
+          "cateCd": "003009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "모니터주변기기",
+          "children": [
+            {
+              "cateCd": "003009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타모니터주변기기"
+            },
+            {
+              "cateCd": "003009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모니터받침대"
+            },
+            {
+              "cateCd": "003009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모니터브라켓"
+            },
+            {
+              "cateCd": "003009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모니터암"
+            },
+            {
+              "cateCd": "003009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모니터어댑터"
+            }
+          ]
+        },
+        "003010": {
+          "cateCd": "003010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "생활가전",
+          "children": [
+            {
+              "cateCd": "003010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 핸드드라이어"
+            },
+            {
+              "cateCd": "003010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "구강청정기"
+            },
+            {
+              "cateCd": "003010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "다리미"
+            },
+            {
+              "cateCd": "003010004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "디지털도어록"
+            },
+            {
+              "cateCd": "003010005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "무전기"
+            },
+            {
+              "cateCd": "003010006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 보풀제거기"
+            },
+            {
+              "cateCd": "003010007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "세탁기"
+            }
+          ]
+        },
+        "003011": {
+          "cateCd": "003011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "소프트웨어",
+          "children": [
+            {
+              "cateCd": "003011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 개발툴"
+            },
+            {
+              "cateCd": "003011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 그래픽/멀티미디어"
+            },
+            {
+              "cateCd": "003011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 번역"
+            },
+            {
+              "cateCd": "003011004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 보안/백신"
+            },
+            {
+              "cateCd": "003011005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 사무/회계"
+            },
+            {
+              "cateCd": "003011006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 운영체제"
+            }
+          ]
+        },
+        "003012": {
+          "cateCd": "003012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "영상가전",
+          "children": [
+            {
+              "cateCd": "003012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 디지털액자"
+            },
+            {
+              "cateCd": "003012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영상가전액세서리"
+            },
+            {
+              "cateCd": "003012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "영상플레이어"
+            },
+            {
+              "cateCd": "003012004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "프로젝터"
+            },
+            {
+              "cateCd": "003012005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "프로젝터주변기기"
+            },
+            {
+              "cateCd": "003012006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "TV"
+            }
+          ]
+        },
+        "003013": {
+          "cateCd": "003013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "음향가전",
+          "children": [
+            {
+              "cateCd": "003013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 노래반주기"
+            },
+            {
+              "cateCd": "003013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 데크"
+            },
+            {
+              "cateCd": "003013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 라디오"
+            },
+            {
+              "cateCd": "003013004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 리시버/앰프"
+            }
+          ]
+        },
+        "003014": {
+          "cateCd": "003014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "이미용가전",
+          "children": [
+            {
+              "cateCd": "003014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 고데기"
+            },
+            {
+              "cateCd": "003014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타이미용가전"
+            },
+            {
+              "cateCd": "003014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 눈썹정리기"
+            },
+            {
+              "cateCd": "003014004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 두피케어기기"
+            },
+            {
+              "cateCd": "003014005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 드라이어"
+            },
+            {
+              "cateCd": "003014006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 매직기"
+            },
+            {
+              "cateCd": "003014007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "면도기"
+            },
+            {
+              "cateCd": "003014008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "면도기소모품"
+            },
+            {
+              "cateCd": "003014009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 손발톱정리기"
+            },
+            {
+              "cateCd": "003014010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 에어브러시"
+            }
+          ]
+        },
+        "003015": {
+          "cateCd": "003015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "자동차기기",
+          "children": [
+            {
+              "cateCd": "003015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "내비게이션/액세서리"
+            },
+            {
+              "cateCd": "003015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "방음/방진용품"
+            },
+            {
+              "cateCd": "003015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "블랙박스/액세서리"
+            },
+            {
+              "cateCd": "003015004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "자동차AV용품"
+            },
+            {
+              "cateCd": "003015005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "자동차TV/모니터"
+            },
+            {
+              "cateCd": "003015006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "전방/후방카메라"
+            }
+          ]
+        },
+        "003016": {
+          "cateCd": "003016",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "저장장치",
+          "children": [
+            {
+              "cateCd": "003016001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "공미디어"
+            },
+            {
+              "cateCd": "003016002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타저장장치"
+            },
+            {
+              "cateCd": "003016003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 외장HDD"
+            },
+            {
+              "cateCd": "003016004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 외장SSD"
+            },
+            {
+              "cateCd": "003016005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 저장장치액세서리"
+            },
+            {
+              "cateCd": "003016006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " HDD"
+            },
+            {
+              "cateCd": "003016007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " NAS"
+            },
+            {
+              "cateCd": "003016008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "ODD"
+            },
+            {
+              "cateCd": "003016009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " SSD"
+            }
+          ]
+        },
+        "003017": {
+          "cateCd": "003017",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "주방가전",
+          "children": [
+            {
+              "cateCd": "003017001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "가스레인지"
+            },
+            {
+              "cateCd": "003017002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 가스레인지후드"
+            },
+            {
+              "cateCd": "003017003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 거품/반죽기"
+            },
+            {
+              "cateCd": "003017004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타주방가전"
+            },
+            {
+              "cateCd": "003017005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "김치냉장고"
+            },
+            {
+              "cateCd": "003017006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 냉동고"
+            }
+          ]
+        },
+        "003018": {
+          "cateCd": "003018",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "주변기기",
+          "children": [
+            {
+              "cateCd": "003018001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "마우스"
+            },
+            {
+              "cateCd": "003018002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "복합기"
+            },
+            {
+              "cateCd": "003018003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "복합기/프린터소모품"
+            },
+            {
+              "cateCd": "003018004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스캐너"
+            }
+          ]
+        },
+        "003019": {
+          "cateCd": "003019",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "카메라/캠코더용품",
+          "children": [
+            {
+              "cateCd": "003019001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "렌즈용품"
+            },
+            {
+              "cateCd": "003019002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "메모리카드"
+            },
+            {
+              "cateCd": "003019003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 미러리스디카"
+            },
+            {
+              "cateCd": "003019004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "삼각대/헤드"
+            },
+            {
+              "cateCd": "003019005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 일반디카"
+            },
+            {
+              "cateCd": "003019006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "즉석카메라"
+            },
+            {
+              "cateCd": "003019007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "충전기/배터리"
+            },
+            {
+              "cateCd": "003019008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "카드리더기"
+            },
+            {
+              "cateCd": "003019009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "카메라/캠코더 관련용품"
+            }
+          ]
+        },
+        "003020": {
+          "cateCd": "003020",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "태블릿PC",
+          "children": [
+            {
+              "cateCd": "003020001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 태블릿PC"
+            }
+          ]
+        },
+        "003021": {
+          "cateCd": "003021",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "태블릿PC액세서리",
+          "children": [
+            {
+              "cateCd": "003021001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스탠드/Dock"
+            },
+            {
+              "cateCd": "003021002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 케이스/파우치"
+            },
+            {
+              "cateCd": "003021003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "태블릿PC보호필름"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "005001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "스포츠/레저",
+      "children": {
+        "005001": {
+          "cateCd": "005001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "검도",
+          "children": [
+            {
+              "cateCd": "005001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 검도보호용품"
+            },
+            {
+              "cateCd": "005001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타검도용품"
+            }
+          ]
+        },
+        "005002": {
+          "cateCd": "005002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "골프",
+          "children": [
+            {
+              "cateCd": "005002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 골프공"
+            },
+            {
+              "cateCd": "005002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "골프백"
+            },
+            {
+              "cateCd": "005002003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "골프연습용품"
+            },
+            {
+              "cateCd": "005002004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "골프의류"
+            },
+            {
+              "cateCd": "005002005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "골프잡화"
+            }
+          ]
+        },
+        "005003": {
+          "cateCd": "005003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "권투",
+          "children": [
+            {
+              "cateCd": "005003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 글러브"
+            },
+            {
+              "cateCd": "005003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 미트"
+            },
+            {
+              "cateCd": "005003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 샌드백"
+            }
+          ]
+        },
+        "005004": {
+          "cateCd": "005004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "기타스포츠용품",
+          "children": [
+            {
+              "cateCd": "005004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타스포츠용품"
+            }
+          ]
+        },
+        "005005": {
+          "cateCd": "005005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "낚시",
+          "children": [
+            {
+              "cateCd": "005005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "낚시공구"
+            },
+            {
+              "cateCd": "005005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "낚시릴"
+            },
+            {
+              "cateCd": "005005003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "낚시용품"
+            },
+            {
+              "cateCd": "005005004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "낚시의류/잡화"
+            },
+            {
+              "cateCd": "005005005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "낚싯대"
+            }
+          ]
+        },
+        "005006": {
+          "cateCd": "005006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "농구",
+          "children": [
+            {
+              "cateCd": "005006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타농구용품"
+            },
+            {
+              "cateCd": "005006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 농구공"
+            },
+            {
+              "cateCd": "005006003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 농구공가방"
+            },
+            {
+              "cateCd": "005006004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 농구대"
+            },
+            {
+              "cateCd": "005006005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 농구의류"
+            }
+          ]
+        },
+        "005007": {
+          "cateCd": "005007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "당구용품",
+          "children": [
+            {
+              "cateCd": "005007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 당구용품"
+            }
+          ]
+        },
+        "005008": {
+          "cateCd": "005008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "댄스",
+          "children": [
+            {
+              "cateCd": "005008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 댄스복"
+            },
+            {
+              "cateCd": "005008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 댄스소품"
+            }
+          ]
+        },
+        "005009": {
+          "cateCd": "005009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "등산",
+          "children": [
+            {
+              "cateCd": "005009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타등산장비"
+            },
+            {
+              "cateCd": "005009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 등산가방"
+            },
+            {
+              "cateCd": "005009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "등산의류"
+            },
+            {
+              "cateCd": "005009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "등산잡화"
+            },
+            {
+              "cateCd": "005009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "등산장비"
+            },
+            {
+              "cateCd": "005009006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 등산화"
+            }
+          ]
+        },
+        "005010": {
+          "cateCd": "005010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "마라톤용품",
+          "children": [
+            {
+              "cateCd": "005010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마라톤용품"
+            }
+          ]
+        },
+        "005011": {
+          "cateCd": "005011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "무술용품",
+          "children": [
+            {
+              "cateCd": "005011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타무술용품"
+            },
+            {
+              "cateCd": "005011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 목검/가검"
+            },
+            {
+              "cateCd": "005011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 봉/곤/창"
+            }
+          ]
+        },
+        "005012": {
+          "cateCd": "005012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "배구",
+          "children": [
+            {
+              "cateCd": "005012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타배구용품"
+            },
+            {
+              "cateCd": "005012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배구공"
+            },
+            {
+              "cateCd": "005012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배구네트"
+            },
+            {
+              "cateCd": "005012004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배구의류"
+            },
+            {
+              "cateCd": "005012005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배구화"
+            }
+          ]
+        },
+        "005013": {
+          "cateCd": "005013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "배드민턴",
+          "children": [
+            {
+              "cateCd": "005013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 그립"
+            },
+            {
+              "cateCd": "005013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타배드민턴용품"
+            },
+            {
+              "cateCd": "005013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배드민턴가방"
+            },
+            {
+              "cateCd": "005013004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배드민턴네트"
+            },
+            {
+              "cateCd": "005013005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배드민턴라켓"
+            },
+            {
+              "cateCd": "005013006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배드민턴의류"
+            },
+            {
+              "cateCd": "005013007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 배드민턴화"
+            },
+            {
+              "cateCd": "005013008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 셔틀콕"
+            },
+            {
+              "cateCd": "005013009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스트링"
+            }
+          ]
+        },
+        "005014": {
+          "cateCd": "005014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "보호용품",
+          "children": [
+            {
+              "cateCd": "005014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 급소보호대"
+            },
+            {
+              "cateCd": "005014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 마우스피스"
+            },
+            {
+              "cateCd": "005014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 머리보호대"
+            }
+          ]
+        },
+        "005015": {
+          "cateCd": "005015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "볼링",
+          "children": [
+            {
+              "cateCd": "005015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼링가방"
+            },
+            {
+              "cateCd": "005015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼링공"
+            },
+            {
+              "cateCd": "005015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼링용품"
+            },
+            {
+              "cateCd": "005015004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼링의류"
+            },
+            {
+              "cateCd": "005015005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼링화"
+            },
+            {
+              "cateCd": "005015006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 아대"
+            }
+          ]
+        },
+        "005016": {
+          "cateCd": "005016",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수련용품",
+          "children": [
+            {
+              "cateCd": "005016001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 격파용품"
+            },
+            {
+              "cateCd": "005016002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 교본"
+            },
+            {
+              "cateCd": "005016003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타수련용품"
+            },
+            {
+              "cateCd": "005016004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 띠/벨트"
+            },
+            {
+              "cateCd": "005016005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 무도복"
+            },
+            {
+              "cateCd": "005016006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수련화"
+            }
+          ]
+        },
+        "005017": {
+          "cateCd": "005017",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수영",
+          "children": [
+            {
+              "cateCd": "005017001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "남성수영복"
+            },
+            {
+              "cateCd": "005017002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "비치웨어"
+            }
+          ]
+        },
+        "005018": {
+          "cateCd": "005018",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스케이트/보드/롤러",
+          "children": [
+            {
+              "cateCd": "005018001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 롤러슈즈"
+            },
+            {
+              "cateCd": "005018002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스네이크보드"
+            },
+            {
+              "cateCd": "005018003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스케이트보드"
+            },
+            {
+              "cateCd": "005018004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스케이트보드용품"
+            },
+            {
+              "cateCd": "005018005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 아이스스케이트"
+            },
+            {
+              "cateCd": "005018006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 킥보드"
+            },
+            {
+              "cateCd": "005018007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 트라이스키"
+            },
+            {
+              "cateCd": "005018008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 핑거보드"
+            }
+          ]
+        },
+        "005019": {
+          "cateCd": "005019",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스쿼시",
+          "children": [
+            {
+              "cateCd": "005019001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타스쿼시용품"
+            },
+            {
+              "cateCd": "005019002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스쿼시공"
+            },
+            {
+              "cateCd": "005019003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스쿼시라켓"
+            }
+          ]
+        },
+        "005020": {
+          "cateCd": "005020",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스키/보드",
+          "children": [
+            {
+              "cateCd": "005020001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "보드복"
+            },
+            {
+              "cateCd": "005020002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스노보드장비"
+            },
+            {
+              "cateCd": "005020003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스키/보드방한용품"
+            },
+            {
+              "cateCd": "005020004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스키/보드용품"
+            },
+            {
+              "cateCd": "005020005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스키복"
+            },
+            {
+              "cateCd": "005020006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스키장비"
+            }
+          ]
+        },
+        "005021": {
+          "cateCd": "005021",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스킨스쿠버",
+          "children": [
+            {
+              "cateCd": "005021001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 게이지"
+            },
+            {
+              "cateCd": "005021002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 글러브"
+            },
+            {
+              "cateCd": "005021003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기어백"
+            },
+            {
+              "cateCd": "005021004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타스킨스쿠버용품"
+            },
+            {
+              "cateCd": "005021005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 납"
+            },
+            {
+              "cateCd": "005021006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다이빙슈트"
+            },
+            {
+              "cateCd": "005021007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 다이빙칼"
+            },
+            {
+              "cateCd": "005021008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레귤레이터"
+            },
+            {
+              "cateCd": "005021009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 리트렉터"
+            },
+            {
+              "cateCd": "005021010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부력재킷"
+            },
+            {
+              "cateCd": "005021011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부츠"
+            }
+          ]
+        },
+        "005022": {
+          "cateCd": "005022",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "스포츠액세서리",
+          "children": [
+            {
+              "cateCd": "005022001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 볼캐리어"
+            },
+            {
+              "cateCd": "005022002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스코어보드/작전판"
+            },
+            {
+              "cateCd": "005022003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스포츠넥워머"
+            }
+          ]
+        },
+        "005023": {
+          "cateCd": "005023",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "야구",
+          "children": [
+            {
+              "cateCd": "005023001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 글러브"
+            },
+            {
+              "cateCd": "005023002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타야구용품"
+            },
+            {
+              "cateCd": "005023003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 야구가방"
+            },
+            {
+              "cateCd": "005023004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 야구공"
+            }
+          ]
+        },
+        "005024": {
+          "cateCd": "005024",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "오토바이/스쿠터",
+          "children": [
+            {
+              "cateCd": "005024001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스쿠터"
+            },
+            {
+              "cateCd": "005024002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 오토바이"
+            },
+            {
+              "cateCd": "005024003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "오토바이부품"
+            },
+            {
+              "cateCd": "005024004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "오토바이용품"
+            },
+            {
+              "cateCd": "005024005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "오토바이의류/잡화"
+            },
+            {
+              "cateCd": "005024006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 전동휠"
+            }
+          ]
+        },
+        "005025": {
+          "cateCd": "005025",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "요가/필라테스",
+          "children": [
+            {
+              "cateCd": "005025001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 요가매트"
+            },
+            {
+              "cateCd": "005025002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "요가복"
+            },
+            {
+              "cateCd": "005025003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 요가용품"
+            },
+            {
+              "cateCd": "005025004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 필라테스"
+            }
+          ]
+        },
+        "005026": {
+          "cateCd": "005026",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "인라인스케이트",
+          "children": [
+            {
+              "cateCd": "005026001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 성인용"
+            },
+            {
+              "cateCd": "005026002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 인라인용품"
+            },
+            {
+              "cateCd": "005026003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 주니어"
+            }
+          ]
+        },
+        "005027": {
+          "cateCd": "005027",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "자전거",
+          "children": [
+            {
+              "cateCd": "005027001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "자전거/MTB"
+            },
+            {
+              "cateCd": "005027002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "자전거부품"
+            }
+          ]
+        },
+        "005028": {
+          "cateCd": "005028",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "족구",
+          "children": [
+            {
+              "cateCd": "005028001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타족구용품"
+            },
+            {
+              "cateCd": "005028002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 족구공"
+            },
+            {
+              "cateCd": "005028003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 족구네트"
+            },
+            {
+              "cateCd": "005028004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 족구의류"
+            },
+            {
+              "cateCd": "005028005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 족구화"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "007001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "여행/문화",
+      "children": {
+        "007001": {
+          "cateCd": "007001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "공연/티켓",
+          "children": [
+            {
+              "cateCd": "007001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 국악/전통예술"
+            },
+            {
+              "cateCd": "007001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 뮤지컬"
+            },
+            {
+              "cateCd": "007001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발레/무용"
+            },
+            {
+              "cateCd": "007001004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스포츠"
+            },
+            {
+              "cateCd": "007001005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 연극"
+            },
+            {
+              "cateCd": "007001006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 오페라"
+            },
+            {
+              "cateCd": "007001007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 전시/행사"
+            }
+          ]
+        },
+        "007002": {
+          "cateCd": "007002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "꽃/케이크배달",
+          "children": [
+            {
+              "cateCd": "007002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 꽃배달"
+            },
+            {
+              "cateCd": "007002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 케이크배달"
+            }
+          ]
+        },
+        "007003": {
+          "cateCd": "007003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "레저이용권",
+          "children": [
+            {
+              "cateCd": "007003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타레저이용권"
+            },
+            {
+              "cateCd": "007003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 눈썰매장"
+            },
+            {
+              "cateCd": "007003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 래프팅"
+            },
+            {
+              "cateCd": "007003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수상레저"
+            },
+            {
+              "cateCd": "007003005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스키/보드"
+            },
+            {
+              "cateCd": "007003006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스파/찜질방"
+            }
+          ]
+        },
+        "007004": {
+          "cateCd": "007004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "모바일쿠폰/상품권",
+          "children": [
+            {
+              "cateCd": "007004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 게임/E머니"
+            },
+            {
+              "cateCd": "007004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타모바일쿠폰/상품권"
+            },
+            {
+              "cateCd": "007004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 도서/문화"
+            }
+          ]
+        },
+        "007005": {
+          "cateCd": "007005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "여행/항공권",
+          "children": [
+            {
+              "cateCd": "007005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 국내숙박"
+            },
+            {
+              "cateCd": "007005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 국내여행"
+            }
+          ]
+        },
+        "007006": {
+          "cateCd": "007006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "장기렌터카",
+          "children": [
+            {
+              "cateCd": "007006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 장기렌터카"
+            }
+          ]
+        },
+        "007007": {
+          "cateCd": "007007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "지류/카드상품권",
+          "children": [
+            {
+              "cateCd": "007007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 구두상품권"
+            },
+            {
+              "cateCd": "007007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타상품권"
+            },
+            {
+              "cateCd": "007007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기프트카드"
+            }
+          ]
+        },
+        "007008": {
+          "cateCd": "007008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "e컨텐츠",
+          "children": [
+            {
+              "cateCd": "007008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 강좌"
+            },
+            {
+              "cateCd": "007008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타e컨텐츠"
+            },
+            {
+              "cateCd": "007008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 만화"
+            },
+            {
+              "cateCd": "007008004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 오디오북"
+            },
+            {
+              "cateCd": "007008005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 전자도서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "002001",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "가구/인테리어",
+      "children": {
+        "002001": {
+          "cateCd": "002001",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "거실가구",
+          "children": [
+            {
+              "cateCd": "002001001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "소파",
+              "children": [
+                {
+                  "cateCd": "002001001001",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 가죽소파"
+                },
+                {
+                  "cateCd": "002001001002",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 리클라이너소파"
+                }
+              ]
+            },
+            {
+              "cateCd": "002001002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 장식장"
+            },
+            {
+              "cateCd": "002001003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "테이블",
+              "children": [
+                {
+                  "cateCd": "002001003001",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 거실테이블"
+                },
+                {
+                  "cateCd": "002001003002",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 다용도테이블"
+                },
+                {
+                  "cateCd": "002001003003",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 사이드테이블"
+                }
+              ]
+            }
+          ]
+        },
+        "002002": {
+          "cateCd": "002002",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "서재/사무용가구",
+          "children": [
+            {
+              "cateCd": "002002001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "사무/교구용가구"
+            },
+            {
+              "cateCd": "002002002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "의자"
+            },
+            {
+              "cateCd": "002002003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 책꽂이"
+            },
+            {
+              "cateCd": "002002004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "책상"
+            },
+            {
+              "cateCd": "002002005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 책장"
+            }
+          ]
+        },
+        "002003": {
+          "cateCd": "002003",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "솜류",
+          "children": [
+            {
+              "cateCd": "002003001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 방석솜"
+            },
+            {
+              "cateCd": "002003002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "베개솜/속통",
+              "children": [
+                {
+                  "cateCd": "002003002001",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 거위털/오리털베개솜"
+                },
+                {
+                  "cateCd": "002003002002",
+                  "cateOverImg": "",
+                  "divisionFl": "n",
+                  "cateNm": " 마이크로화이바베개솜"
+                }
+              ]
+            },
+            {
+              "cateCd": "002003003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "요솜/매트솜"
+            },
+            {
+              "cateCd": "002003004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "이불솜"
+            },
+            {
+              "cateCd": "002003005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 쿠션솜"
+            }
+          ]
+        },
+        "002004": {
+          "cateCd": "002004",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수납가구",
+          "children": [
+            {
+              "cateCd": "002004001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 고가구"
+            },
+            {
+              "cateCd": "002004002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 공간박스"
+            },
+            {
+              "cateCd": "002004003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 나비장"
+            },
+            {
+              "cateCd": "002004004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선반"
+            },
+            {
+              "cateCd": "002004005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소품수납함"
+            },
+            {
+              "cateCd": "002004006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수납장"
+            },
+            {
+              "cateCd": "002004007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 신발장"
+            },
+            {
+              "cateCd": "002004008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 우산꽂이"
+            }
+          ]
+        },
+        "002005": {
+          "cateCd": "002005",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "수예",
+          "children": [
+            {
+              "cateCd": "002005001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타수예"
+            },
+            {
+              "cateCd": "002005002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "뜨개질"
+            },
+            {
+              "cateCd": "002005003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 보석십자수"
+            }
+          ]
+        },
+        "002006": {
+          "cateCd": "002006",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "아동/주니어가구",
+          "children": [
+            {
+              "cateCd": "002006001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 서랍장"
+            },
+            {
+              "cateCd": "002006002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소파"
+            },
+            {
+              "cateCd": "002006003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 소품가구"
+            },
+            {
+              "cateCd": "002006004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 수납장"
+            },
+            {
+              "cateCd": "002006005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 아동침실세트"
+            },
+            {
+              "cateCd": "002006006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 옷장"
+            },
+            {
+              "cateCd": "002006007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 의자"
+            }
+          ]
+        },
+        "002007": {
+          "cateCd": "002007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "아웃도어가구",
+          "children": [
+            {
+              "cateCd": "002007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타아웃도어가구"
+            },
+            {
+              "cateCd": "002007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 야외벤치"
+            },
+            {
+              "cateCd": "002007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 야외의자"
+            },
+            {
+              "cateCd": "002007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 야외테이블"
+            }
+          ]
+        },
+        "002008": {
+          "cateCd": "002008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "인테리어소품",
+          "children": [
+            {
+              "cateCd": "002008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타장식용품"
+            },
+            {
+              "cateCd": "002008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 냉장고자석"
+            },
+            {
+              "cateCd": "002008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 도어벨"
+            },
+            {
+              "cateCd": "002008004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 디자인문패"
+            },
+            {
+              "cateCd": "002008005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "미술작품"
+            },
+            {
+              "cateCd": "002008006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "스탠드"
+            },
+            {
+              "cateCd": "002008007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "시계"
+            },
+            {
+              "cateCd": "002008008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "아로마/캔들용품"
+            },
+            {
+              "cateCd": "002008009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "액자"
+            },
+            {
+              "cateCd": "002008010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 앤틱소품"
+            }
+          ]
+        },
+        "002009": {
+          "cateCd": "002009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "주방가구",
+          "children": [
+            {
+              "cateCd": "002009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 그릇장/컵보드"
+            },
+            {
+              "cateCd": "002009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타주방가구"
+            },
+            {
+              "cateCd": "002009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 레인지대"
+            },
+            {
+              "cateCd": "002009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "식탁/의자"
+            }
+          ]
+        },
+        "002010": {
+          "cateCd": "002010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "침구단품",
+          "children": [
+            {
+              "cateCd": "002010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타침구단품"
+            },
+            {
+              "cateCd": "002010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 담요"
+            },
+            {
+              "cateCd": "002010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "매트/침대커버"
+            },
+            {
+              "cateCd": "002010004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 무릎담요"
+            },
+            {
+              "cateCd": "002010005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "베개"
+            },
+            {
+              "cateCd": "002010006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 스프레드"
+            }
+          ]
+        },
+        "002011": {
+          "cateCd": "002011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "침구세트",
+          "children": [
+            {
+              "cateCd": "002011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "매트커버세트"
+            },
+            {
+              "cateCd": "002011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "요이불세트"
+            },
+            {
+              "cateCd": "002011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "이불베개세트"
+            },
+            {
+              "cateCd": "002011004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "이불패드세트"
+            },
+            {
+              "cateCd": "002011005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "침대커버세트"
+            },
+            {
+              "cateCd": "002011006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 한실예단세트"
+            }
+          ]
+        },
+        "002012": {
+          "cateCd": "002012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "침실가구",
+          "children": [
+            {
+              "cateCd": "002012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "거울"
+            },
+            {
+              "cateCd": "002012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "매트리스"
+            },
+            {
+              "cateCd": "002012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부부테이블"
+            },
+            {
+              "cateCd": "002012004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "서랍장"
+            }
+          ]
+        },
+        "002013": {
+          "cateCd": "002013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "카페트/러그",
+          "children": [
+            {
+              "cateCd": "002013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 대자리"
+            },
+            {
+              "cateCd": "002013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 러그"
+            },
+            {
+              "cateCd": "002013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 발매트"
+            },
+            {
+              "cateCd": "002013004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 왕골자리"
+            }
+          ]
+        },
+        "002014": {
+          "cateCd": "002014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "커튼/블라인드",
+          "children": [
+            {
+              "cateCd": "002014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 대나무발"
+            },
+            {
+              "cateCd": "002014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 로만셰이드"
+            },
+            {
+              "cateCd": "002014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 롤스크린"
+            },
+            {
+              "cateCd": "002014004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 바란스"
+            },
+            {
+              "cateCd": "002014005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 버티컬"
+            },
+            {
+              "cateCd": "002014006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 블라인드"
+            },
+            {
+              "cateCd": "002014007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 비즈발"
+            },
+            {
+              "cateCd": "002014008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 실커튼"
+            }
+          ]
+        },
+        "002015": {
+          "cateCd": "002015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "홈데코",
+          "children": [
+            {
+              "cateCd": "002015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "주방데코"
+            },
+            {
+              "cateCd": "002015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "커버류"
+            },
+            {
+              "cateCd": "002015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "쿠션/방석"
+            }
+          ]
+        },
+        "002016": {
+          "cateCd": "002016",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "DIY자재/용품",
+          "children": [
+            {
+              "cateCd": "002016001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "가구부속품"
+            },
+            {
+              "cateCd": "002016002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 데코스티커"
+            },
+            {
+              "cateCd": "002016003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 목재"
+            },
+            {
+              "cateCd": "002016004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 몰딩"
+            },
+            {
+              "cateCd": "002016005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "바닥재"
+            },
+            {
+              "cateCd": "002016006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 반제품"
+            },
+            {
+              "cateCd": "002016007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "벽지"
+            },
+            {
+              "cateCd": "002016008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 손잡이"
+            },
+            {
+              "cateCd": "002016009",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "시트지"
+            },
+            {
+              "cateCd": "002016010",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 접착제/보수용품"
+            },
+            {
+              "cateCd": "002016011",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 중문"
+            },
+            {
+              "cateCd": "002016012",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "타일"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cateCd": "010007",
+      "cateOverImg": "",
+      "divisionFl": "n",
+      "cateNm": "패션잡화",
+      "children": {
+        "010007": {
+          "cateCd": "010007",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "남성가방",
+          "children": [
+            {
+              "cateCd": "010007001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 백팩"
+            },
+            {
+              "cateCd": "010007002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 브리프케이스"
+            },
+            {
+              "cateCd": "010007003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 숄더백"
+            },
+            {
+              "cateCd": "010007004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 크로스백"
+            },
+            {
+              "cateCd": "010007005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 클러치백"
+            }
+          ]
+        },
+        "010008": {
+          "cateCd": "010008",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "남성신발",
+          "children": [
+            {
+              "cateCd": "010008001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 구두"
+            },
+            {
+              "cateCd": "010008002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "기능화"
+            },
+            {
+              "cateCd": "010008003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 모카신/털신"
+            },
+            {
+              "cateCd": "010008004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 보트슈즈"
+            }
+          ]
+        },
+        "010009": {
+          "cateCd": "010009",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "모자",
+          "children": [
+            {
+              "cateCd": "010009001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 군모"
+            },
+            {
+              "cateCd": "010009002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 귀달이모자"
+            },
+            {
+              "cateCd": "010009003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 귀마개"
+            },
+            {
+              "cateCd": "010009004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 두건/반다나"
+            },
+            {
+              "cateCd": "010009005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 방울털모자"
+            }
+          ]
+        },
+        "010010": {
+          "cateCd": "010010",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "베이비주얼리",
+          "children": [
+            {
+              "cateCd": "010010001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 귀걸이"
+            },
+            {
+              "cateCd": "010010002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 목걸이"
+            },
+            {
+              "cateCd": "010010003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 베이비주얼리세트"
+            },
+            {
+              "cateCd": "010010004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 순금돌반지"
+            },
+            {
+              "cateCd": "010010005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 순금주얼리"
+            },
+            {
+              "cateCd": "010010006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 팔찌"
+            },
+            {
+              "cateCd": "010010007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 펜던트"
+            }
+          ]
+        },
+        "010011": {
+          "cateCd": "010011",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "벨트",
+          "children": [
+            {
+              "cateCd": "010011001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "남성벨트"
+            },
+            {
+              "cateCd": "010011002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 멜빵"
+            },
+            {
+              "cateCd": "010011003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 여성벨트"
+            }
+          ]
+        },
+        "010012": {
+          "cateCd": "010012",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "선글라스/안경테",
+          "children": [
+            {
+              "cateCd": "010012001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선글라스"
+            },
+            {
+              "cateCd": "010012002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 선글라스 케이스/소품"
+            },
+            {
+              "cateCd": "010012003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 안경소품"
+            }
+          ]
+        },
+        "010013": {
+          "cateCd": "010013",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "순금",
+          "children": [
+            {
+              "cateCd": "010013001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 골드바"
+            },
+            {
+              "cateCd": "010013002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 순금기념품"
+            },
+            {
+              "cateCd": "010013003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 실버바"
+            }
+          ]
+        },
+        "010014": {
+          "cateCd": "010014",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "시계",
+          "children": [
+            {
+              "cateCd": "010014001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "시계소품"
+            },
+            {
+              "cateCd": "010014002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 시계수리용품"
+            },
+            {
+              "cateCd": "010014003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 아동시계"
+            },
+            {
+              "cateCd": "010014004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 커플시계"
+            },
+            {
+              "cateCd": "010014005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "패션시계"
+            }
+          ]
+        },
+        "010015": {
+          "cateCd": "010015",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "신발용품",
+          "children": [
+            {
+              "cateCd": "010015001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 구둣주걱"
+            },
+            {
+              "cateCd": "010015002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 기타신발용품"
+            },
+            {
+              "cateCd": "010015003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 보호쿠션/패드"
+            },
+            {
+              "cateCd": "010015004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 부츠키퍼"
+            },
+            {
+              "cateCd": "010015005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 슈즈커버"
+            }
+          ]
+        },
+        "010016": {
+          "cateCd": "010016",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "양말",
+          "children": [
+            {
+              "cateCd": "010016001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "남성양말"
+            },
+            {
+              "cateCd": "010016002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "여성양말"
+            }
+          ]
+        },
+        "010017": {
+          "cateCd": "010017",
+          "cateOverImg": "",
+          "divisionFl": "n",
+          "cateNm": "여성가방",
+          "children": [
+            {
+              "cateCd": "010017001",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": "가방소품"
+            },
+            {
+              "cateCd": "010017002",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 백팩"
+            },
+            {
+              "cateCd": "010017003",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 숄더백"
+            },
+            {
+              "cateCd": "010017004",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 크로스백"
+            },
+            {
+              "cateCd": "010017005",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 클러치백"
+            },
+            {
+              "cateCd": "010017006",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 토트백"
+            },
+            {
+              "cateCd": "010017007",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 파우치"
+            },
+            {
+              "cateCd": "010017008",
+              "cateOverImg": "",
+              "divisionFl": "n",
+              "cateNm": " 힙색"
+            }
+          ]
+        }
+      }
+    }
+  ]
